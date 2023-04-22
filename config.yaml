@@ -31,18 +31,28 @@ dns:
     - https://doh.opendns.com/dns-query
     - https://1.1.1.1/dns-query
 proxies:
-  - {name: 🇺🇸 _US_美国 19, server: 137.175.3.226, port: 53002, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
-  - {name: 🇺🇸 _US_美国 20, server: 192.74.228.175, port: 42857, client-fingerprint: chrome, type: vmess, uuid: 051b844f-efe3-4847-92aa-66b5de0b6d4e, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
-  - {name: 🇺🇸 _US_美国 21, server: 142.4.112.13, port: 51091, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
-  - {name: 🇺🇸 _US_美国 24, server: 142.4.97.74, port: 44942, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
-  - {name: 🇺🇸 _US_美国 30, server: 38.143.66.187, port: 9101, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, tfo: false}
-  - {name: 🇺🇸 _US_美国->🇬🇧_GB_英国 14, server: cf.yj2022.ga, port: 443, client-fingerprint: chrome, type: vmess, uuid: 4b5e4565-322f-4223-a891-78a84f189726, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /Eynyyo4kJfl2fkJfl2f, headers: {Host: england1.yj2022.ga}}}
-  - {name: 🇺🇸 _US_美国 33, server: 140.99.157.86, port: 47815, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
-  - {name: 🇺🇸 美国【付费推荐：https://v1.mk/vip】394, server: 104.17.3.81, port: 80, type: vmess, uuid: e40b2de3-b829-4591-a7b6-99d1913f3246, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /worryfree, headers: {Host: w.evouch77.live}}}
-  - {name: 🇺🇸 美国【付费推荐：https://v1.mk/vip】109, server: ch.learnpropy.click, port: 2053, type: vmess, uuid: 8cab8fb7-4977-4ec2-8bba-2914dd43bfbd, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /gsdg43575, headers: {Host: abs.learnpropy.click}}}
-  - {name: 🇺🇸 美国【付费推荐：https://v1.mk/vip】319, server: 172.64.173.160, port: 80, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /shirker, headers: {Host: ca.ilovescp.com}}}
-  - {name: 🇺🇸 Relay_🇺🇸US-🇺🇸US_127, server: hk3.af49c4e4c2ef.sanfen004.me, port: 443, type: vmess, uuid: 1172d7fe-4a5d-4d07-92f6-aefa4212347f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: www.microsoft.com}}}
-  - {name: 🇺🇸 Relay_🇺🇸US-🇺🇸US_161, server: 192.74.228.171, port: 42857, type: vmess, uuid: 051b844f-efe3-4847-92aa-66b5de0b6d4e, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 _US_美国, server: 38.54.247.120, port: 54405, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 🇺🇸 _US_美国 2, server: 45.131.229.56, port: 41602, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 🇺🇸 _US_美国 3, server: 142.4.114.20, port: 34002, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 🇺🇸 _US_美国 4, server: 45.86.11.147, port: 39182, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 🇺🇸 _US_美国 6, server: 137.175.18.107, port: 50004, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 🇫🇷 _FR_法国->🇬🇧_GB_英国, server: 51.195.35.151, port: 58812, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 🇺🇸 _US_美国 12, server: 198.2.203.34, port: 50002, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 🇺🇸 _US_美国 13, server: 198.2.211.16, port: 46499, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 🇺🇸 _US_美国 15, server: 140.99.59.253, port: 55512, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 🇺🇸 _US_美国 16, server: 192.74.232.248, port: 51802, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 🇺🇸 _US_美国 17, server: 198.2.208.84, port: 50002, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 🇯🇵 _JP_日本 3, server: aws-jp.aikun.online, port: 443, client-fingerprint: chrome, type: trojan, password: f8e4d8e3-36b5-42b1-af33-f0e1719976b4, tfo: false, skip-cert-verify: false}
+  - {name: 🇫🇷 _FR_法国 2, server: 51.195.35.146, port: 58812, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 🇺🇸 _US_美国 21, server: 107.148.195.17, port: 50014, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 🇺🇸 _US_美国 25, server: 108.186.5.10, port: 59010, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 🇺🇸 _US_美国 26, server: 142.4.125.1, port: 54102, client-fingerprint: chrome, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 🇮🇳 India 01 TG:@SSRSUB, server: 152.70.74.66, port: 443, type: trojan, password: d906afe5-7c3c-4ddc-aaa4-61c154a82e5e, skip-cert-verify: true}
+  - {name: 🇺🇸 github.com/freefq - 美国  3, server: 143.42.173.175, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /chat}}
+  - {name: 🇺🇸 美国【付费推荐：https://v1.mk/vip】125, server: 104.17.3.81, port: 80, type: vmess, uuid: e40b2de3-b829-4591-a7b6-99d1913f3246, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /worryfree, headers: {Host: w.evouch77.live}}}
+  - {name: 🇺🇸 美国【付费推荐：https://v1.mk/vip】19, server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker, headers: {Host: ca.ilovescp.com}}}
+  - {name: 🇺🇸 美国【付费推荐：https://v1.mk/vip】136, server: 172.64.173.160, port: 80, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /shirker, headers: {Host: ca.ilovescp.com}}}
+  - {name: 二爷翻墙网 https://1808.ga 节点_8, server: cf-lt.sharecentre.online, port: 80, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /shirker, headers: {Host: lv1.sharecentrepro.org}}}
   # 以上为代理地址请插入
 proxy-groups:
   - name: 🚀 节点选择
@@ -50,36 +60,56 @@ proxy-groups:
     proxies:
       - ♻️  自动选择
       - 🔮 负载均衡
-      - 🇺🇸 _US_美国 19
-      - 🇺🇸 _US_美国 20
+      - 🇺🇸 _US_美国
+      - 🇺🇸 _US_美国 2
+      - 🇺🇸 _US_美国 3
+      - 🇺🇸 _US_美国 4
+      - 🇺🇸 _US_美国 6
+      - 🇫🇷 _FR_法国->🇬🇧_GB_英国
+      - 🇺🇸 _US_美国 12
+      - 🇺🇸 _US_美国 13
+      - 🇺🇸 _US_美国 15
+      - 🇺🇸 _US_美国 16
+      - 🇺🇸 _US_美国 17
+      - 🇯🇵 _JP_日本 3
+      - 🇫🇷 _FR_法国 2
       - 🇺🇸 _US_美国 21
-      - 🇺🇸 _US_美国 24
-      - 🇺🇸 _US_美国 30
-      - 🇺🇸 _US_美国->🇬🇧_GB_英国 14
-      - 🇺🇸 _US_美国 33
-      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】394
-      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】109
-      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】319
-      - 🇺🇸 Relay_🇺🇸US-🇺🇸US_127
-      - 🇺🇸 Relay_🇺🇸US-🇺🇸US_161
+      - 🇺🇸 _US_美国 25
+      - 🇺🇸 _US_美国 26
+      - 🇮🇳 India 01 TG:@SSRSUB
+      - 🇺🇸 github.com/freefq - 美国  3
+      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】125
+      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】19
+      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】136
+      - 二爷翻墙网 https://1808.ga 节点_8
       # 以上为节点选择组的自动选择代理请插入
   - name: ♻️  自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🇺🇸 _US_美国 19
-      - 🇺🇸 _US_美国 20
+      - 🇺🇸 _US_美国
+      - 🇺🇸 _US_美国 2
+      - 🇺🇸 _US_美国 3
+      - 🇺🇸 _US_美国 4
+      - 🇺🇸 _US_美国 6
+      - 🇫🇷 _FR_法国->🇬🇧_GB_英国
+      - 🇺🇸 _US_美国 12
+      - 🇺🇸 _US_美国 13
+      - 🇺🇸 _US_美国 15
+      - 🇺🇸 _US_美国 16
+      - 🇺🇸 _US_美国 17
+      - 🇯🇵 _JP_日本 3
+      - 🇫🇷 _FR_法国 2
       - 🇺🇸 _US_美国 21
-      - 🇺🇸 _US_美国 24
-      - 🇺🇸 _US_美国 30
-      - 🇺🇸 _US_美国->🇬🇧_GB_英国 14
-      - 🇺🇸 _US_美国 33
-      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】394
-      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】109
-      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】319
-      - 🇺🇸 Relay_🇺🇸US-🇺🇸US_127
-      - 🇺🇸 Relay_🇺🇸US-🇺🇸US_161
+      - 🇺🇸 _US_美国 25
+      - 🇺🇸 _US_美国 26
+      - 🇮🇳 India 01 TG:@SSRSUB
+      - 🇺🇸 github.com/freefq - 美国  3
+      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】125
+      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】19
+      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】136
+      - 二爷翻墙网 https://1808.ga 节点_8
       # 以上为自动选择组下面的代理地址请插入
   - name: 🔮 负载均衡
     type: load-balance
@@ -87,18 +117,28 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - 🇺🇸 _US_美国 19
-      - 🇺🇸 _US_美国 20
+      - 🇺🇸 _US_美国
+      - 🇺🇸 _US_美国 2
+      - 🇺🇸 _US_美国 3
+      - 🇺🇸 _US_美国 4
+      - 🇺🇸 _US_美国 6
+      - 🇫🇷 _FR_法国->🇬🇧_GB_英国
+      - 🇺🇸 _US_美国 12
+      - 🇺🇸 _US_美国 13
+      - 🇺🇸 _US_美国 15
+      - 🇺🇸 _US_美国 16
+      - 🇺🇸 _US_美国 17
+      - 🇯🇵 _JP_日本 3
+      - 🇫🇷 _FR_法国 2
       - 🇺🇸 _US_美国 21
-      - 🇺🇸 _US_美国 24
-      - 🇺🇸 _US_美国 30
-      - 🇺🇸 _US_美国->🇬🇧_GB_英国 14
-      - 🇺🇸 _US_美国 33
-      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】394
-      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】109
-      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】319
-      - 🇺🇸 Relay_🇺🇸US-🇺🇸US_127
-      - 🇺🇸 Relay_🇺🇸US-🇺🇸US_161
+      - 🇺🇸 _US_美国 25
+      - 🇺🇸 _US_美国 26
+      - 🇮🇳 India 01 TG:@SSRSUB
+      - 🇺🇸 github.com/freefq - 美国  3
+      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】125
+      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】19
+      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】136
+      - 二爷翻墙网 https://1808.ga 节点_8
       # 以上为负载均衡组下面的代理地址请插入
   - name: 🐟 漏网之鱼
     type: select
@@ -106,18 +146,28 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️  自动选择
       - 🔮 负载均衡
-      - 🇺🇸 _US_美国 19
-      - 🇺🇸 _US_美国 20
+      - 🇺🇸 _US_美国
+      - 🇺🇸 _US_美国 2
+      - 🇺🇸 _US_美国 3
+      - 🇺🇸 _US_美国 4
+      - 🇺🇸 _US_美国 6
+      - 🇫🇷 _FR_法国->🇬🇧_GB_英国
+      - 🇺🇸 _US_美国 12
+      - 🇺🇸 _US_美国 13
+      - 🇺🇸 _US_美国 15
+      - 🇺🇸 _US_美国 16
+      - 🇺🇸 _US_美国 17
+      - 🇯🇵 _JP_日本 3
+      - 🇫🇷 _FR_法国 2
       - 🇺🇸 _US_美国 21
-      - 🇺🇸 _US_美国 24
-      - 🇺🇸 _US_美国 30
-      - 🇺🇸 _US_美国->🇬🇧_GB_英国 14
-      - 🇺🇸 _US_美国 33
-      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】394
-      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】109
-      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】319
-      - 🇺🇸 Relay_🇺🇸US-🇺🇸US_127
-      - 🇺🇸 Relay_🇺🇸US-🇺🇸US_161
+      - 🇺🇸 _US_美国 25
+      - 🇺🇸 _US_美国 26
+      - 🇮🇳 India 01 TG:@SSRSUB
+      - 🇺🇸 github.com/freefq - 美国  3
+      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】125
+      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】19
+      - 🇺🇸 美国【付费推荐：https://v1.mk/vip】136
+      - 二爷翻墙网 https://1808.ga 节点_8
       # 以上为漏网之鱼组下面的代理地址请插入
 rules:
  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🚀 节点选择
